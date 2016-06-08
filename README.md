@@ -17,3 +17,12 @@ dependencies {
   apt 'com.jakewharton:butterknife-compiler:8.0.1'
 }
 ```
+
+添加方法：
+
+---
+实现效果：<br>
+![](https://github.com/fxlysm/pluginForProject/blob/master/picture/creat.png "添加视图")
+<br>
+
+---
